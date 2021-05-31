@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1602950705 source:c:\~coding\program kalkulator sederhana\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
+1603001186 source:c:\~coding\program 1 - kalkulator sederhana\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
